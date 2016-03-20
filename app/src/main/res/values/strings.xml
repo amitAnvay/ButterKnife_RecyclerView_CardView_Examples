@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Using ButterKnife</string>
+    <string name="main_title">Using ButterKnife</string>
+    <string name="text_fragment">This is a fragment Text</string>
+    <string name="foodListHeader">Food List</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="footer_fragment">Footer Fragment</string>
+    <string name="title_activity_people_list">Card Views</string>
+</resources>

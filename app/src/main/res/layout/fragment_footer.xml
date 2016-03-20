@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".fragments.FooterFragment">
+
+    <TextView
+        android:id="@+id/fragment_text"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/footer_fragment" />
+
+</RelativeLayout>
